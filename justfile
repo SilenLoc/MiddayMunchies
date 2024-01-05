@@ -18,3 +18,7 @@ lint:
 
 fmt:
     bun run formatocaco
+
+build:
+    cargo tauri build
+
